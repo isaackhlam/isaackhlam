@@ -65,4 +65,4 @@ Check out my project [beaconnet](https://github.com/CUHK-CIBAY/beaconnect) (yet 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=isaackhlam&show_icons=true&count_private=true&theme=darcula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaackhlam&layout=compact&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaackhlam&layout=compact&theme=darcula&size_weight=0.5&count_weight=0.5)
