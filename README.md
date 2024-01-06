@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Isaac ᓚᘏᗢ</h1>
-<h3 align="center">Senior CS student at The Chinese University of Hong Kong.</h3>
+<h3 align="center">Senior CS student at The Chinese University of Hong Kong</h3>
 
 ## ⚡️ A Few Quick Facts
 
@@ -64,5 +64,5 @@ Check out my project [beaconnet](https://github.com/CUHK-CIBAY/beaconnect) (yet 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=isaackhlam&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaackhlam&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=isaackhlam&show_icons=true&count_private=true&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaackhlam&layout=compact&theme=darcula)
