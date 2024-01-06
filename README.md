@@ -9,10 +9,18 @@
 - 🔭 Interested in Generative AI
 - 🎉 I use Arch btw
 
-<!---
 ## 💡 Project
 
-Check out my project [beaconnet](https://github.com/CUHK-CIBAY/beaconnect) (yet another Twitter clone with graphQL and neo4j)
+- [Beaconnet](https://github.com/CUHK-CIBAY/beaconnect) Yet another Twitter clone with React, GraphQL and neo4j
+- [GeoTrace](https://github.com/isaackhlam/real-time-package-tracing) A IoT solution for logistic regarding real time package tracking
+- [Breast Cancer Detection](https://github.com/isaackhlam/Breast-cancer-detection) My first trial in Deep CNN for abnomial detection
+- [Rarity Score](https://github.com/isaackhlam/Rarity-Score) Final year project about evalution of creativity of image generative model
+- [Space Jet](https://github.com/isaackhlam/SpaceJet) Simple STG game written in C++ and SFML
+<!---
+<details>
+  <summary></summary>
+
+</details>
 -->
 
 ## 🚀 Skills
