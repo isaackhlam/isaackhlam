@@ -3,7 +3,7 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🎓 Graduated at The Chinese University of Hong Kong with first class Honour in CS
+- 🎓 Graduated at The Chinese University of Hong Kong with first class honour in CS
 - 📖 Completed minor in Statistics, Risk Managment Science, and Data Analytics
 - 👨‍💻 Worked at [CPII](https://www.cpii.hk) for a year as Research Assistant
 - ☁️ Worked on serverless web development on AWS platform as my Internship
