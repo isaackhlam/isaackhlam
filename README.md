@@ -1,12 +1,14 @@
 <h1 align="center">Hi there 👋 I'm Isaac ᓚᘏᗢ</h1>
-<h3 align="center">Senior CS student at The Chinese University of Hong Kong</h3>
+<h3 align="center">Master DS student at National Yang Ming Chiao Tung University</h3>
 
 ## ⚡️ A Few Quick Facts
 
-- 👨‍💻 Currenly working at [CPII](https://www.cpii.hk) as Research Assistant
+- 🎓 Graduated at The Chinese University of Hong Kong with first class Honour in CS
+- 📖 Completed minor in Statistics, Risk Managment Science, and Data Analytics
+- 👨‍💻 Worked at [CPII](https://www.cpii.hk) for a year as Research Assistant
+- ☁️ Worked on serverless web development on AWS platform as my Internship
 - 🧐 Growing my skillset on Machine Learning and Data Science
-- ☁️ Worked on serverless web development previously
-- 🔭 Interested in Generative AI
+- 🔭 Interested in Generative AI, Computer Vision, and Bioinformatics
 - 🎉 I use Arch btw
 
 ## 💡 Project
