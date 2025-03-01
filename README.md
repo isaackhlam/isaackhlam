@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Isaac ᓚᘏᗢ</h1>
-<h3 align="center">Master DS student at National Yang Ming Chiao Tung University</h3>
+<h3 align="center">Master CS student at National Yang Ming Chiao Tung University</h3>
 
 ## ⚡️ A Few Quick Facts
 
