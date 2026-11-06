@@ -74,5 +74,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=isaackhlam&show_icons=true&count_private=true&theme=darcula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaackhlam&layout=compact&theme=darcula&size_weight=0.5&count_weight=0.5)
+![Github Stats](https://github-stats-extended.vercel.app/api?username=isaackhlam&show_icons=true&count_private=true&theme=darcula)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=isaackhlam&layout=compact&theme=darcula&size_weight=0.5&count_weight=0.5)
